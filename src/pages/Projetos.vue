@@ -52,8 +52,8 @@
     name: "Clone Disney+",
     description: "Clone do site da Disney+, desenvolvido em aula, com layout e funcionalidades semelhantes.",
     github: "https://github.com/ViniSilv27/clone_disneyplus",
-    demo: "https://clone-disneyplus-eight-kappa.vercel.app/",
-    image: "https://raw.githubusercontent.com/ViniSilv27/clone_disneyplus/main/screenshot.png",
+    demo: "https://clone-disneyplus-sigma-brown.vercel.app/",
+    image: "https://clone-disneyplus-sigma-brown.vercel.app/screenshot.png",
     },
     {
     name: "Tabela FIPE",
