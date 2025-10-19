@@ -7,7 +7,6 @@
             v-for="project in projects"
             :key="project.name"
         >
-            <img src={{ project.image }} alt="iamge capa">
             <h3>{{ project.name }}</h3>
             <p>{{ project.description }}</p>
             <div class="links">
