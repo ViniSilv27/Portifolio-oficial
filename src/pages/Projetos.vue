@@ -7,6 +7,7 @@
             v-for="project in projects"
             :key="project.name"
         >
+            <img src={{ project.image }} alt="iamge capa">
             <h3>{{ project.name }}</h3>
             <p>{{ project.description }}</p>
             <div class="links">
@@ -24,15 +25,15 @@
     name: "Vingadores – A Era de Ultron",
     description: "Site baseado no filme Vingadores: A Era de Ultron, mostrando personagens e detalhes do enredo.",
     github: "https://github.com/ViniSilv27/vingadores-a-era-de-ultron", 
-    demo: "https://vingadores-a-era-de-ultron-68h2-67upop1tb.vercel.app/",
-    image: "https://vercel.com/vinicius-projects-856b51f4/vingadores-a-era-de-ultron-68h2/screenshot.png" 
+    demo: "https://vingadores-a-era-de-ultron-68h2.vercel.app/",
+    image: "https://vingadores-a-era-de-ultron-68h2.vercel.app/screenshot.png" 
     },
     {
     name: "Comet Instruments",
     description: "Site de apresentação da Comet Instruments, uma loja que inventei com informações sobre produtos e serviços.",
     github: "https://github.com/ViniSilv27/Comet-Instruments", 
-    demo: "https://comet-instruments-alh6y09eo-vinicius-projects-856b51f4.vercel.app/",
-    image: "https://comet-instruments-alh6y09eo-vinicius-projects-856b51f4.vercel.app/screenshot.png" 
+    demo: "https://comet-instruments.vercel.app/",
+    image: "https://comet-instruments.vercel.app/screenshot.png" 
     },
     {
     name: "Optimus Tech",
@@ -46,7 +47,7 @@
     description: "Projeto feito com Bootstrap para uma barbearia, apresentando serviços e informações de contato.",
     github: "https://github.com/ViniSilv27/barbearia-urban",
     demo: "https://barbearia-urban.vercel.app/",
-    image: "https://raw.githubusercontent.com/ViniSilv27/barbearia-urban/main/screenshot.png" 
+    image: "https://barbearia-urban.vercel.app/screenshot.png" 
     },
     {
     name: "Clone Disney+",
