@@ -21,6 +21,11 @@
 <script setup>
     const projects = [
     {
+    name: "Project Titanic",
+    description: "O objetivo é analisar os fatores que influenciam a sobrevivência dos passageiros e criar um modelo de Machine Learning para previsão.",
+    github: "https://github.com/ViniSilv27/Projeto-Titanic"
+    },
+    {
     name: "Vingadores – A Era de Ultron",
     description: "Site baseado no filme Vingadores: A Era de Ultron, mostrando personagens e detalhes do enredo.",
     github: "https://github.com/ViniSilv27/vingadores-a-era-de-ultron", 
@@ -59,7 +64,6 @@
     name: "Tabela FIPE",
     description: "Aplicativo em Java que consulta a Tabela FIPE para obter informações de veículos.",
     github: "https://github.com/ViniSilv27/tabela-FIPE",
-    demo: "#", 
     image: "https://raw.githubusercontent.com/ViniSilv27/tabela-FIPE/main/screenshot.png" 
     },
     {

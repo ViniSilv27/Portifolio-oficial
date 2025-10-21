@@ -15,7 +15,7 @@
 
         <!-- Botão LinkedIn -->
         <a
-            href="https://www.linkedin.com/in/vinicius-silva-9448052a1/"
+            href="https://www.linkedin.com/in/vinicius-souza-silva/"
             target="_blank"
             class="btn-secondary"
         >
